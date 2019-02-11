@@ -8,4 +8,4 @@
 
 defined( 'ABSPATH' ) || exit;
 
-include '01-basic-block/index.php'
+include '01-basic-block/index.php';
